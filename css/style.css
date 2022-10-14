@@ -24,14 +24,7 @@ img.profile {
 }
 
 body {
-    background: linear-gradient(
-        45deg,
-        #ffcc00 0%,
-        #fe6104 32%,
-        #ff0c5a 50%,
-        #fc03bb 62%,
-        #7d0cfd 100%
-    );   
+    background: #ffebcd;   
     color: black;
     text-align: center;
     font-size: 20px;
